@@ -2,7 +2,8 @@
   "categories": [
     {
       "_id": "24ac2548-e36e-4404-b6d7-4e87d5da0503",
-      "name": "Công nghệ"
+      "name": "Công nghệ",
+      "slug": "cong-nghe"
     }
   ],
   "posts": [
