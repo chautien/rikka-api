@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/chautien/rfp-api#readme",
   "dependencies": {
-    "dot-env": "0.0.1",
+    "dotenv": "^10.0.0",
     "json-server": "^0.17.0"
   }
 }
