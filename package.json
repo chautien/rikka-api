@@ -1,0 +1,27 @@
+{
+  "name": "rfp-api",
+  "version": "1.0.0",
+  "description": "Api server for React app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chautien/rfp-api.git"
+  },
+  "keywords": [
+    "Api",
+    "server"
+  ],
+  "author": "Chau Tien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chautien/rfp-api/issues"
+  },
+  "homepage": "https://github.com/chautien/rfp-api#readme",
+  "dependencies": {
+    "dot-env": "0.0.1",
+    "json-server": "^0.17.0"
+  }
+}
