@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "_id": "24ac2548-e36e-4404-b6d7-4e87d5da0503",
+      "name": "Công nghệ"
+    }
+  ],
+  "posts": [
+    {
+      "_id": "9f89262a-10ee-491e-9a4e-e7566094edd4",
+      "slug": "danh-gia-chi-tiet-samsung-galaxy-a52s-5g-cuc-khoe-so-voi-muc-gia",
+      "title": "Đánh giá chi tiết Samsung Galaxy A52s 5G: “Cực khoẻ’ so với mức giá!",
+      "introduce": "Samsung Galaxy A52s 5G hiện đang là một trong những ngôi sao sáng nhất phân khúc smartphone trung cấp. Vây đâu là những lý do để mình đưa ra lời khẳng định này?",
+      "content": "Hiện đang là con chip tầm trung “hot” nhất trên thị trường hiện nay thì đúng vậy, những gì mà Qualcomm Snapdragon 778G thể hiện trên Samsung Galaxy A52s 5G là cực kỳ ấn tượng. Với 8 lõi tích hợp, xung nhịp tối đa lên tới 2.4GHz đi kèm với card đồ hoạ Adreno 642L và trên hết chính là việc bộ vi xử lý này được chạy trên tiến trình 6nm thì rõ ràng, hiệu năng của Samsung Galaxy A52s 5G được tích hợp bộ vi xử lý mới này hiện đang là mạnh nhất phân khúc tầm trung hiện nay.",
+      "created-at": "22/10/2021",
+      "time-to-read": 3,
+      "category": {
+        "_id": "24ac2548-e36e-4404-b6d7-4e87d5da0503"
+      },
+      "author": {
+        "_id": "55fa08f9-6597-42f0-a29e-6d78c777f780"
+      }
+    }
+  ],
+  "author": [
+    {
+      "_id": "55fa08f9-6597-42f0-a29e-6d78c777f780",
+      "name": "Châu Tiến",
+      "avatar": "https://i.pinimg.com/550x/70/c5/5c/70c55c78afd04f1c943ee9dcf2a8a283.jpg"
+    }
+  ]
+}
