@@ -1,14 +1,14 @@
 {
   "categories": [
     {
-      "_id": "24ac2548-e36e-4404-b6d7-4e87d5da0503",
+      "id": "24ac2548-e36e-4404-b6d7-4e87d5da0503",
       "name": "Công nghệ",
       "slug": "cong-nghe"
     }
   ],
   "posts": [
     {
-      "_id": "9f89262a-10ee-491e-9a4e-e7566094edd4",
+      "id": "9f89262a-10ee-491e-9a4e-e7566094edd4",
       "slug": "danh-gia-chi-tiet-samsung-galaxy-a52s-5g-cuc-khoe-so-voi-muc-gia",
       "title": "Đánh giá chi tiết Samsung Galaxy A52s 5G: “Cực khoẻ’ so với mức giá!",
       "introduce": "Samsung Galaxy A52s 5G hiện đang là một trong những ngôi sao sáng nhất phân khúc smartphone trung cấp. Vây đâu là những lý do để mình đưa ra lời khẳng định này?",
@@ -16,16 +16,16 @@
       "created-at": "22/10/2021",
       "time-to-read": 3,
       "category": {
-        "_id": "24ac2548-e36e-4404-b6d7-4e87d5da0503"
+        "id": "24ac2548-e36e-4404-b6d7-4e87d5da0503"
       },
       "author": {
-        "_id": "55fa08f9-6597-42f0-a29e-6d78c777f780"
+        "id": "55fa08f9-6597-42f0-a29e-6d78c777f780"
       }
     }
   ],
   "authors": [
     {
-      "_id": "55fa08f9-6597-42f0-a29e-6d78c777f780",
+      "id": "55fa08f9-6597-42f0-a29e-6d78c777f780",
       "name": "Châu Tiến",
       "avatar": "https://i.pinimg.com/550x/70/c5/5c/70c55c78afd04f1c943ee9dcf2a8a283.jpg"
     }
